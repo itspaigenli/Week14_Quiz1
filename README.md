@@ -13,4 +13,4 @@ You have just joined your favorite company and have been tasked with printing ne
 4. Correct the server file’s directory by moving it to the appropriate directory\
    a. cd client -> mv server ..
 5. Update README with screenshot of the app's webpage\
-   a. ![Screenshot of quiz frontpage](README assets/screenshot.png)
+   a. ![Screenshot of quiz frontpage](/Users/nessali/Desktop/GitHub/quizzes-tasks/Week14_Quiz1/Week14_Quiz1/README assets)
