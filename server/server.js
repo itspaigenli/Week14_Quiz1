@@ -4,8 +4,6 @@ const app = express();
 
 const PORT = process.env.PORT || 8080;
 
-app.listen(PORT, () => console.log("Server started"));
-
 app.use(express.static("build"));
 
 const items = [
@@ -22,3 +20,5 @@ const items = [
 app.get("/api/items", (req, res) => {
   res.send(items);
 });
+
+app.listen(PORT, () => console.log("Server started"));
