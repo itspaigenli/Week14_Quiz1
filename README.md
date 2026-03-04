@@ -8,6 +8,7 @@ You have just joined your favorite company and have been tasked with printing ne
    a. add node_modules to .gitignore
    b.
 4. Correct the server file’s directory by moving it to the appropriate directory
+   a.
 5. Update README with
    - screenshot of the app's webpage,
    - document errors you encountered and how you fixed them,
